@@ -9,4 +9,4 @@ That PMIC being the TPS65131 from TI.
 
 ## Status
 
-Waiting to receive boards and parts. Hoping for the best.
+Have the boards and parts. Trying to find time to assemble.
